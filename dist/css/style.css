@@ -412,7 +412,7 @@ h2 {
   margin-bottom: 7.5em;
   border-top: 0.5em solid #338fcb;
   box-shadow: inset 0 10px 60px rgba(51, 143, 203, 0.5);
-  background: #338fcb url("//fortaleza.wordcamp.org/2016/files/2016/06/full_7002335.jpeg") 50% 100% no-repeat;
+  background: #338fcb url("//fortaleza.wordcamp.org/2016/files/2016/06/wcforherotop2000x800.jpg") 50% 100% no-repeat;
   background-size: cover;
   text-align: center; }
   .site-header hgroup {
@@ -446,8 +446,8 @@ h2 {
           opacity: .8; } }
     @media only screen and (min-width: 1024px) {
       .site-title a {
-        width: 550px;
-        height: 250px; } }
+        width: 660px;
+        height: 300px; } }
   @media only screen and (min-width: 768px) {
     .site-title {
       margin: .5em 0; } }
@@ -772,7 +772,7 @@ article.post, article.page {
   border-radius: 2px;
   box-shadow: 0 0 12px rgba(51, 143, 203, 0.1);
   background-color: #fff;
-  background-image: url("//2016.porto.wordcamp.org/files/2016/02/post-header-b.jpg");
+  background-image: url("//fortaleza.wordcamp.org/2016/files/2016/06/post-header-top.jpg");
   background-repeat: no-repeat, no-repeat;
   background-position: 0 0, 50% 100%;
   background-size: contain;
