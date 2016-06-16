@@ -745,8 +745,8 @@ img.size-full {
 ----------------------------------------------- */
 #main {
   margin: 3.375em auto 2.25em;
-  background: url("//fortaleza.wordcamp.org/2016/files/2016/06/WordpressFortaleza.png") 100% 100% no-repeat;
-  background-size: 659px 765px;
+  background: url("//fortaleza.wordcamp.org/2016/files/2016/06/WordpressFortaleza-medium.png") 50% 100% no-repeat;
+  background-size: 300px 348px;
   padding-bottom: 20em;
   max-width: 95%; }
   @media only screen and (min-width: 1024px) {
