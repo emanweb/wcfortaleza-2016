@@ -744,7 +744,7 @@ img.size-full {
 /* =Main wrapper
 ----------------------------------------------- */
 #main {
-  margin: 3.375em auto 2.25em;
+  margin: 0.375em auto 2.25em;
   background: url("//fortaleza.wordcamp.org/2016/files/2016/06/WordpressFortaleza-medium.png") 50% 100% no-repeat;
   background-size: 300px 348px;
   padding-bottom: 20em;
@@ -1053,7 +1053,7 @@ span.wcpt-session-speakers:before {
   content: ''; }
 
 #after-header-widgets {
-  margin: 1.5em auto;
+  margin: 5px auto;
   max-width: 95%; }
   @media only screen and (min-width: 1024px) {
     #after-header-widgets {
