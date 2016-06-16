@@ -404,7 +404,7 @@ body {
 
 h1,
 h2 {
-  font-family: "Lobster", serif; }
+  font-family: Verdana, serif; }
 
 /* =Header
 ----------------------------------------------- */
@@ -890,7 +890,7 @@ article.post, article.page {
   border-top: 1px solid #ff6d63;
   border-bottom: 1px solid #ff6d63;
   padding: 1em 0;
-  font-family: "Lobster", serif; }
+  font-family: Verdana, serif; }
   .entry-content blockquote p:last-child,
   .comment-content blockquote p:last-child {
     margin-bottom: 0; }
@@ -1073,7 +1073,7 @@ span.wcpt-session-speakers:before {
       display: block;
       transition: all 200ms;
       padding: .25em 0;
-      font-family: "Lobster", serif;
+      font-family: Verdana, serif;
       font-size: 2em; }
     #after-header-widgets .widget span {
       display: block;
