@@ -6,7 +6,7 @@ Site Name: WordCamp Porto 2016
  * 1. Change the default font family in all browsers (opinionated).
  * 2. Prevent adjustments of font size after orientation changes in IE and iOS.
  */
-html {
+html {f
   font-family: sans-serif;
   /* 1 */
   -ms-text-size-adjust: 100%;
@@ -492,7 +492,7 @@ h2 {
       box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
       background: rgba(255, 255, 255, 0.9);
       padding: .5em 1.125em;
-      width: auto; }
+      width: 300px; }
       .main-navigation .menu ul ul {
         top: 0;
         left: 100%; }
@@ -745,8 +745,8 @@ img.size-full {
 ----------------------------------------------- */
 #main {
   margin: 3.375em auto 2.25em;
-  background: url("//fortaleza.wordcamp.org/2016/files/2016/05/cropped-13082574_807892572681736_4510442435185606363_n.png") 50% 100% no-repeat;
-  background-size: 200px 250px;
+  background: url("//fortaleza.wordcamp.org/2016/files/2016/06/WordpressFortaleza.png") 100% 100% no-repeat;
+  background-size: 659px 765px;
   padding-bottom: 20em;
   max-width: 95%; }
   @media only screen and (min-width: 1024px) {
@@ -1110,7 +1110,7 @@ span.wcpt-session-speakers:before {
 
 #primary-sidebar .widget {
   margin: 0 0 3.5em;
-  background: url("//2016.porto.wordcamp.org/files/2016/02/divider-widget.png") 50% 100% no-repeat;
+  background: url("//fortaleza.wordcamp.org/2016/files/2016/06/WordpressFortaleza-small.png") 50% 100% no-repeat;
   background-size: 2em;
   padding-bottom: 3.5em; }
 
