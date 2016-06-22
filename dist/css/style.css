@@ -1350,3 +1350,9 @@ input[type='submit']:hover {
 .comment-reply-title {
   margin: 0 0 1em;
   font-size: 1.75em; }
+  
+#before-content-widgets {
+background-color: white;
+padding-left: 10px;
+padding-top: 5px;
+max-width: 1105px;}
